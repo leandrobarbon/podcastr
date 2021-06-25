@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/leandrobarbon/podcastr/blob/main/public/logo.svg"/>
+</p>
+
+#
+<img src="https://github.com/leandrobarbon/podcastr/blob/main/public/finalProject.jpg" />
+
+
+
 ## Tecnologies
 
 This project was developed using cutting edge front-end technologies.
